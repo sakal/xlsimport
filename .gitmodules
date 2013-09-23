@@ -1,0 +1,6 @@
+[submodule "lib/log4php"]
+	path = lib/log4php
+	url = git://git.apache.org/logging-log4php.git
+[submodule "lib/PHPExcel"]
+	path = lib/PHPExcel
+	url = https://github.com/PHPOffice/PHPExcel.git
